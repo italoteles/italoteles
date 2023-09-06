@@ -13,7 +13,7 @@
 ## 🎯 **GitHub - Principais linguagens**
 
 <a href="https://github.com/italoteles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoteles&layout=compact&langs_count=7&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoteles&layout=donut&langs_count=7&theme=dark" />
 </a>
 
 ## 🚀 Minhas tecnologias
