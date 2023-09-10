@@ -6,7 +6,7 @@
   
 ## 📈 **Estatísticas GitHub**
 <a href="https://github.com/italoteles">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=italoteles&show_icons=true&theme=radical&include_all_commits=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=italoteles&show_icons=true&theme=radical"/>
 </a>
 
 
